@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rayyan016&show_icons=true&theme=react )
+![github stats](https://github-readme-stats.vercel.app/api?username=rayyan016&show_icons=true&theme=react&count_private=true)
 
 
 
