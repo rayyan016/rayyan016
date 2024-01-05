@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Full-Stack Development :zap: | Open-Source :four_leaf_clover:	
 -  **Languages :** Python, C, Java, JavaScript
 -  **Hobbies :** Badminton & Music :headphones:
 
